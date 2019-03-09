@@ -11,7 +11,7 @@
 
 ## 2.自己搭建一个网站
 
->**[猫窝](https://blog.yejiah.com)**
+>**[猫窝](http://blog.yejiah.com)**
 （悄悄偷个懒）
 
 ## 3.分析网站和浏览器之前通信的HTTP协议
